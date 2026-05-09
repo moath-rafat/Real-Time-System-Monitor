@@ -1,0 +1,11 @@
+export function formatBytes(bytes: number): string {
+    if (bytes < 1024) {
+        return `${bytes.toFixed(1)} B/s`;
+    }
+
+    if (bytes < 1024 * 1024) {
+        return `${(bytes / 1024).toFixed(1)} KB/s`;
+    }
+
+    return `${(bytes / (1024 * 1024)).toFixed(1)} MB/s`;
+}
