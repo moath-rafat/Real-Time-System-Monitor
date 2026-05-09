@@ -30,10 +30,10 @@ A real-time monitoring that streams live system information from the backend ser
 ## Screenshots
 
 ### CPU and Memory Monitoring
-![CPU-RAM](images/CPU-RAM)
+![CPU-RAM](images/CPU-RAM.png)
 
 ### Network Monitoring
-![Network](images/Network)
+![Network](images/Network.png)
 
 ### OS Information
-![OS](images/OS)
+![OS](images/OS.png)
