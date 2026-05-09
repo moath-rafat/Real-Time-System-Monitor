@@ -1,6 +1,6 @@
 # Real-Time System Monitoring Dashboard
 
-A real-time monitoring that streams live system information from the backend and visualizes CPU usage, RAM usage, network activity, and operating system information in real time.
+A real-time monitoring that streams live system information from the backend server and visualizes CPU usage, RAM usage, network activity, and operating system information in real time.
 
 ## Features
 
@@ -30,10 +30,10 @@ A real-time monitoring that streams live system information from the backend and
 ## Screenshots
 
 ### CPU and Memory Monitoring
-![images](CPU-RAM)
+![CPU-RAM](images/CPU-RAM)
 
 ### Network Monitoring
-![images](Network)
+![Network](images/Network)
 
 ### OS Information
-![images](OS)
+![OS](images/OS)
